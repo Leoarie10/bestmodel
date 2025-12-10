@@ -3,7 +3,6 @@ import pandas as pd
 import joblib
 import numpy as np
 
-# Konfigurasi Halaman
 st.set_page_config(
     page_title="Layoff Prediction App",
     page_icon="💼",
